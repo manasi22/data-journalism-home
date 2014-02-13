@@ -1,0 +1,180 @@
+20928	FINE CARE PHARMACY INC	981 FULTON ST	BROOKLYN	NY	11238		lat	40.683015	lng	-73.963877	highlight	0	published	1	dist	0.304728258																										
+20626	BETTER HEALTH PHARMACY	1147 FULTON ST	BROOKLYN	NY	11238		lat	40.681337	lng	-73.955877	highlight	0	published	1	dist	0.560534717																										
+69484	Thriftway Pharmacy	720 Classon Ave	Brooklyn	NY	11238	(718) 397-1800	lat	40.6754346	lng	-73.959975	highlight	0	published	1	dist	0.600470361																										
+20893	SWAN PHARMACY INC	650 FRANKLIN AVE	BROOKLYN	NY	11238		lat	40.676175	lng	-73.956249	highlight	0	published	1	dist	0.709586232																										
+11242	THRIFTWAY PHARMACY	759 WASHINGTON AVE	BROOKLYN	NY	11238		lat	40.674097	lng	-73.962763	highlight	0	published	1	dist	0.712847983																										
+69330	Greene Van Pharmacy Corp	94 Greene Ave	Brooklyn	NY	11238	(718) 783-0890	lat	40.6862702	lng	-73.9683803	highlight	0	published	1	dist	0.814108557																										
+21342	FIVE STAR PHARMACY	1200 FULTON ST	BROOKLYN	NY	11216		lat	40.680293	lng	-73.952569	highlight	0	published	1	dist	0.832088774																										
+11363	KINGS PHARMACY	357 FLATBUSH AVE	BROOKLYN	NY	11238		lat	40.676898	lng	-73.97187	highlight	1	published	1	dist	0.891075654																										
+20782	LUDWIGS DRUG STORE INC	805 WASHINGTON AVE	BROOKLYN	NY	11238		lat	40.672318	lng	-73.96236	highlight	0	published	1	dist	0.910140013																										
+11123	BATISH DRUGS	378 LAFAYETTE AVE	BROOKLYN	NY	11238		lat	40.6888467	lng	-73.9601728	highlight	0	published	1	dist	0.947154791																										
+21170	MAGNAM PHARMACY INC	1236 FULTON ST	BROOKLYN	NY	11216		lat	40.680209	lng	-73.951065	highlight	0	published	1	dist	0.95914443																										
+11245	THRIFTWAY PHARMACY	524 NOSTRAND AVE	BROOKLYN	NY	11216		lat	40.6808544	lng	-73.9496887	highlight	0	published	1	dist	1.075350103																										
+21306	COUNTY PHARMACY INC	580 NOSTRAND AVENUE	BROOKLYN	NY	11216		lat	40.6789226	lng	-73.9496732	highlight	0	published	1	dist	1.090216788																										
+21161	GREENE COMMUNITY PHARMACY INC	702 FULTON ST	BROOKLYN	NY	11217		lat	40.685853	lng	-73.973877	highlight	0	published	1	dist	1.133643388																										
+21211	DANISH PHARMACY	443 DEKALB AVE	BROOKLYN	NY	11205		lat	40.690627	lng	-73.95978	highlight	0	published	1	dist	1.14775406																										
+10153	CREST PHARMACY LTD	196 FLATBUSH AVE	BROOKLYN	NY	11217		lat	40.681538	lng	-73.976027	highlight	0	published	1	dist	1.152099076																										
+20628	MAIMANS PHARMACY	821 FRANKLIN AVE	BROOKLYN	NY	11225		lat	40.6704451	lng	-73.9580305	highlight	0	published	1	dist	1.178383874																										
+20696	COMPASHIONE PHARMACY	621 NOSTRAND AVE	BROOKLYN	NY	11216		lat	40.675739	lng	-73.949671	highlight	0	published	1	dist	1.199480769																										
+21131	BEHRENS PHARMACY	231 DEKALB AVE	BROOKLYN	NY	11205		lat	40.689669	lng	-73.969979	highlight	0	published	1	dist	1.201538931																										
+11213	EMCON PHARMACY INC	49 5TH AVE	BROOKLYN	NY	11217		lat	40.681191	lng	-73.976877	highlight	0	published	1	dist	1.22041536434}]	[40.6805029	-73.9624327	"null]][[{""id"""	9972	name	METRO DRUGS	address	79 HUDSON STREET	city	HOBOKEN	state	NJ	zip	7030	phone		lat	40.7362285	lng	-74.0298829	highlight	0	published	1	dist	0.733315837
+69292	Newport Pharmaceuticals Ser	165 Erie St	Jersey City	NJ	7302	(201) 963-1903	lat	40.7283491	lng	-74.0433859	highlight	0	published	1	dist	0.899641928																										
+9968	HOBOKEN FAMILY PHARMACY	307 1ST ST	HOBOKEN	NJ	7030		lat	40.738096	lng	-74.0346816	highlight	0	published	1	dist	0.905758857																										
+9769	HEALTH FAIR PHARMACY	315 WILLOW AVE	HOBOKEN	NJ	7030		lat	40.7408161	lng	-74.0336527	highlight	0	published	1	dist	1.197855212																										
+9754	BARON DRUG & SURGICAL	416 WASHINGTON ST	HOBOKEN	NJ	7030		lat	40.7414291	lng	-74.0297104	highlight	0	published	1	dist	1.293674613																										
+9527	MASTROLIA PHARMACY	325 SEVENTH ST	JERSEY CITY	NJ	7302		lat	40.7264834	lng	-74.0487154	highlight	1	published	1	dist	1.386624718																										
+9520	ALBINI PHARMACY	401 ADAMS ST	HOBOKEN	NJ	7030		lat	40.7424037	lng	-74.036132	highlight	0	published	1	dist	1.398857093																										
+20475	FENNY PHARMACY	135 NEWARK AVE	JERSEY CITY	NJ	7302		lat	40.7203164	lng	-74.0435867	highlight	0	published	1	dist	1.405876589																										
+9443	PALACE DRUGS	172 NEWARK AVE	JERSEY CITY	NJ	7302		lat	40.721198	lng	-74.0452575	highlight	0	published	1	dist	1.430373355																										
+9820	HEALTH AID DRUGS	212 PALISADE AVE	JERSEY CITY	NJ	7306		lat	40.7360695	lng	-74.0493818	highlight	0	published	1	dist	1.537513366																										
+20427	PINTOS PHARMACY	161 PALISADE AVE	JERSEY CITY	NJ	7306		lat	40.7345863	lng	-74.0503836	highlight	0	published	1	dist	1.552908362																										
+69115	Shree Yash Corp	338 Palisade Ave	Jersey City	NJ	7307	(201) 222-9399	lat	40.7404918	lng	-74.046645	highlight	0	published	1	dist	1.636410514																										
+9669	NORMANS PHARMACY INC	501 JERSEY AVE	JERSEY CITY	NJ	7302		lat	40.719949	lng	-74.0470711	highlight	0	published	1	dist	1.636844428																										
+69304	Hook Pharmacy	204 Washington St Apt 1b	Jersey City	NJ	07302-4542	(201) 333-5189	lat	40.714349	lng	-74.0378223	highlight	0	published	1	dist	1.794232352																										
+9887	DOWNTOWN PHARMACY	52 ESSEX ST	JERSEY CITY	NJ	7302		lat	40.712923	lng	-74.0361759	highlight	0	published	1	dist	1.924480206																										
+69134	Carry Pharmacy Inc	75 Bright St	Jersey City	NJ	7302	(201) 332-4488	lat	40.7172529	lng	-74.0483482	highlight	0	published	1	dist	1.926345171																										
+9753	AMETHYST PHARMACY	550 NEWARK AVE	JERSEY CITY	NJ	7306		lat	40.7312024	lng	-74.0562503	highlight	0	published	1	dist	1.967465232																										
+69308	Prescription Shoppe Llc	550 Newark Ave Ste 101	Jersey City	NJ	07306-1362	(201) 360-0600	lat	40.7312594	lng	-74.0563216	highlight	0	published	1	dist	1.973878982																										
+20403	WILLOW PHARMACY	900 WILLOW AVE	HOBOKEN	NJ	7030		lat	40.7479421	lng	-74.0315222	highlight	0	published	1	dist	1.992400011																										
+9441	COURT HOUSE PHARMACY	570 NEWARK AVE	JERSEY CITY	NJ	7306		lat	40.7317935	lng	-74.0567497	highlight	1	published	1	dist	2.01468541028}]	[40.7300567	-74.0329499	"null]][[{""id"""	20928	name	FINE CARE PHARMACY INC	address	981 FULTON ST	city	BROOKLYN	state	NY	zip	11238	phone		lat	40.683015	lng	-73.963877	highlight	0	published	1	dist	0.304728258
+20626	BETTER HEALTH PHARMACY	1147 FULTON ST	BROOKLYN	NY	11238		lat	40.681337	lng	-73.955877	highlight	0	published	1	dist	0.560534717																										
+69484	Thriftway Pharmacy	720 Classon Ave	Brooklyn	NY	11238	(718) 397-1800	lat	40.6754346	lng	-73.959975	highlight	0	published	1	dist	0.600470361																										
+20893	SWAN PHARMACY INC	650 FRANKLIN AVE	BROOKLYN	NY	11238		lat	40.676175	lng	-73.956249	highlight	0	published	1	dist	0.709586232																										
+11242	THRIFTWAY PHARMACY	759 WASHINGTON AVE	BROOKLYN	NY	11238		lat	40.674097	lng	-73.962763	highlight	0	published	1	dist	0.712847983																										
+69330	Greene Van Pharmacy Corp	94 Greene Ave	Brooklyn	NY	11238	(718) 783-0890	lat	40.6862702	lng	-73.9683803	highlight	0	published	1	dist	0.814108557																										
+21342	FIVE STAR PHARMACY	1200 FULTON ST	BROOKLYN	NY	11216		lat	40.680293	lng	-73.952569	highlight	0	published	1	dist	0.832088774																										
+11363	KINGS PHARMACY	357 FLATBUSH AVE	BROOKLYN	NY	11238		lat	40.676898	lng	-73.97187	highlight	1	published	1	dist	0.891075654																										
+20782	LUDWIGS DRUG STORE INC	805 WASHINGTON AVE	BROOKLYN	NY	11238		lat	40.672318	lng	-73.96236	highlight	0	published	1	dist	0.910140013																										
+11123	BATISH DRUGS	378 LAFAYETTE AVE	BROOKLYN	NY	11238		lat	40.6888467	lng	-73.9601728	highlight	0	published	1	dist	0.947154791																										
+21170	MAGNAM PHARMACY INC	1236 FULTON ST	BROOKLYN	NY	11216		lat	40.680209	lng	-73.951065	highlight	0	published	1	dist	0.95914443																										
+11245	THRIFTWAY PHARMACY	524 NOSTRAND AVE	BROOKLYN	NY	11216		lat	40.6808544	lng	-73.9496887	highlight	0	published	1	dist	1.075350103																										
+21306	COUNTY PHARMACY INC	580 NOSTRAND AVENUE	BROOKLYN	NY	11216		lat	40.6789226	lng	-73.9496732	highlight	0	published	1	dist	1.090216788																										
+21161	GREENE COMMUNITY PHARMACY INC	702 FULTON ST	BROOKLYN	NY	11217		lat	40.685853	lng	-73.973877	highlight	0	published	1	dist	1.133643388																										
+21211	DANISH PHARMACY	443 DEKALB AVE	BROOKLYN	NY	11205		lat	40.690627	lng	-73.95978	highlight	0	published	1	dist	1.14775406																										
+10153	CREST PHARMACY LTD	196 FLATBUSH AVE	BROOKLYN	NY	11217		lat	40.681538	lng	-73.976027	highlight	0	published	1	dist	1.152099076																										
+20628	MAIMANS PHARMACY	821 FRANKLIN AVE	BROOKLYN	NY	11225		lat	40.6704451	lng	-73.9580305	highlight	0	published	1	dist	1.178383874																										
+20696	COMPASHIONE PHARMACY	621 NOSTRAND AVE	BROOKLYN	NY	11216		lat	40.675739	lng	-73.949671	highlight	0	published	1	dist	1.199480769																										
+21131	BEHRENS PHARMACY	231 DEKALB AVE	BROOKLYN	NY	11205		lat	40.689669	lng	-73.969979	highlight	0	published	1	dist	1.201538931																										
+11213	EMCON PHARMACY INC	49 5TH AVE	BROOKLYN	NY	11217		lat	40.681191	lng	-73.976877	highlight	0	published	1	dist	1.22041536434}]	[40.6805029	-73.9624327	"null]][[{""id"""	21306	name	COUNTY PHARMACY INC	address	580 NOSTRAND AVENUE	city	BROOKLYN	state	NY	zip	11216	phone		lat	40.6789226	lng	-73.9496732	highlight	0	published	1	dist	0.085280014
+21170	MAGNAM PHARMACY INC	1236 FULTON ST	BROOKLYN	NY	11216		lat	40.680209	lng	-73.951065	highlight	0	published	1	dist	0.156576025																										
+21342	FIVE STAR PHARMACY	1200 FULTON ST	BROOKLYN	NY	11216		lat	40.680293	lng	-73.952569	highlight	0	published	1	dist	0.227683129																										
+11245	THRIFTWAY PHARMACY	524 NOSTRAND AVE	BROOKLYN	NY	11216		lat	40.6808544	lng	-73.9496887	highlight	0	published	1	dist	0.23984869																										
+20696	COMPASHIONE PHARMACY	621 NOSTRAND AVE	BROOKLYN	NY	11216		lat	40.675739	lng	-73.949671	highlight	0	published	1	dist	0.354231776																										
+21242	M AND F PHARMACY	712 NOSTRAND AVE	BROOKLYN	NY	11216		lat	40.674199	lng	-73.950354	highlight	0	published	1	dist	0.515876366																										
+20626	BETTER HEALTH PHARMACY	1147 FULTON ST	BROOKLYN	NY	11238		lat	40.681337	lng	-73.955877	highlight	0	published	1	dist	0.519461766																										
+11078	QUICK RX	1413 FULTON STREET	BROOKLYN	NY	11216		lat	40.680299	lng	-73.944514	highlight	0	published	1	dist	0.544738989																										
+20893	SWAN PHARMACY INC	650 FRANKLIN AVE	BROOKLYN	NY	11238		lat	40.676175	lng	-73.956249	highlight	0	published	1	dist	0.55501223																										
+10827	BED STUY PHARMACY INC	1458 FULTON STREET	BROOKLYN	NY	11216		lat	40.679743	lng	-73.942541	highlight	0	published	1	dist	0.69355657																										
+21053	HELFMAN PHARMACY	410 TOMPKINS AVE	BROOKLYN	NY	11216		lat	40.683055	lng	-73.94419	highlight	0	published	1	dist	0.720953912																										
+10119	RITE CHOICE PHARMACY	1484 FULTON ST	BROOKLYN	NY	11216		lat	40.679693	lng	-73.941605	highlight	1	published	1	dist	0.771016181																										
+72527	Phamco Drugs Inc	802 Nostrand Ave	Brooklyn	NY	11216	(718) 604-2585	lat	40.671264	lng	-73.950581	highlight	0	published	1	dist	0.841551345																										
+69484	Thriftway Pharmacy	720 Classon Ave	Brooklyn	NY	11238	(718) 397-1800	lat	40.6754346	lng	-73.959975	highlight	0	published	1	dist	0.870321487																										
+10391	RUBIN CHEMISTS	828 NOSTRAND AVE	BROOKLYN	NY	11216		lat	40.6700881	lng	-73.9505017	highlight	0	published	1	dist	0.972379095																										
+21060	FULTON DRUGS INC	1548 FULTON ST	BROOKLYN	NY	11216		lat	40.6795479	lng	-73.938978	highlight	0	published	1	dist	0.989782798																										
+20708	S AND T PHARMACIE	391 EASTERN PKY	BROOKLYN	NY	11216		lat	40.670605	lng	-73.955367	highlight	0	published	1	dist	0.996619031																										
+10297	PARK DRUGS	801 NOSTRAND AVE	BROOKLYN	NY	11225		lat	40.6692429	lng	-73.9505399	highlight	1	published	1	dist	1.066311205																										
+21221	ALBANY PHARMACY INC	178 ALBANY AVE	BROOKLYN	NY	11213		lat	40.674385	lng	-73.939121	highlight	0	published	1	dist	1.092821952																										
+20628	MAIMANS PHARMACY	821 FRANKLIN AVE	BROOKLYN	NY	11225		lat	40.6704451	lng	-73.9580305	highlight	0	published	1	dist	1.11991929239}]	[40.6788319	-73.9506774	"null]][[{""id"""	10307	name	DRUG RITE PHARMACY	address	77 02 21ST AVE	city	JACKSON HEIGHTS	state	NY	zip	11370	phone		lat	40.770354	lng	-73.892306	highlight	0	published	1	dist	1.673383591
+21296	JULIE PHARMACY INC	104-01 NORTHERN BLVD	CORONA	NY	11368		lat	40.757955	lng	-73.864543	highlight	0	published	1	dist	2.232632012																										
+72400	Health Guard Pharmacy	3313 Junction Blvd	Jackson Heights	NY	11372-2031	(718) 507-6800	lat	40.7563736	lng	-73.8731734	highlight	0	published	1	dist	2.255255184																										
+10400	AL KOSTO PHARMACY INC	37 65 90TH ST	JACKSON HEIGHTS	NY	11372		lat	40.7551857	lng	-73.8777004	highlight	0	published	1	dist	2.403153329																										
+10965	QUEENS EXPRESS PHARMACY CORP	34 54 JUNCTION BLVD	JACKSON HEIGHTS	NY	11372		lat	40.7537559	lng	-73.872014	highlight	0	published	1	dist	2.551465557																										
+10463	DAWNCO DRUGS	80 24 NORTHERN BLVD	JACKSON HEIGHTS	NY	11372		lat	40.7553603	lng	-73.8866496	highlight	0	published	1	dist	2.586296975																										
+72491	Sols 4 Pharmacy Inc	37-12 108th Street	Corona	NY	11368	(718) 639-4107	lat	40.7538962	lng	-73.8602834	highlight	0	published	1	dist	2.78906908																										
+21178	CANAAN PHARMACY INC	37 09 JUNCTION BLVD	CORONA	NY	11368		lat	40.7512779	lng	-73.8706423	highlight	0	published	1	dist	2.836368895																										
+11083	OPTIMA DRUGS	"91-01, 37TH AVE"	JACKSON HEIGHTS	NY	11372		lat	40.750855	lng	-73.875818	highlight	0	published	1	dist	2.870111875																										
+11401	ASTOR PHARMACY CORP	35 18 DITMARS BLVD	ASTORIA	NY	11105		lat	40.7744567	lng	-73.908375	highlight	0	published	1	dist	2.883725701																										
+10544	SANTA FE PHARMACY INC	88 31 37TH AVE	JACKSON HEIGHTS	NY	11372		lat	40.7503805	lng	-73.878432	highlight	0	published	1	dist	2.941000369																										
+72434	Big Apple Pharmacy Corp	37-71 103 St	Corona	NY	11368	(718) 779-4450	lat	40.751467	lng	-73.86323	highlight	0	published	1	dist	2.948878987																										
+10579	CROWN CHEMISTS LTD	33 20 DITMARS BLVD	ASTORIA	NY	11105		lat	40.77475	lng	-73.909245	highlight	0	published	1	dist	2.95422608																										
+69748	Diabetic Care Rx Llc	37-15 23rd Avenue	Astoria	NY	11103	(718) 777-0602	lat	40.771785	lng	-73.9089614	highlight	0	published	1	dist	2.972352268																										
+20618	HARPELL DITMARS PHARMACY	33 08 DITMARS BLVD	ASTORIA	NY	11105		lat	40.7749669	lng	-73.909566	highlight	0	published	1	dist	2.979580821																										
+11082	GEMINI PHARMACY INC	86-12 37TH AVE	JACKSON HEIGHTS	NY	11372		lat	40.7501786	lng	-73.8800716	highlight	0	published	1	dist	2.982855933																										
+72460	Freya Pharmacy Inc	10119 39th Ave	Corona	NY	11368-4806	(347) 649-2525	lat	40.75056	lng	-73.864231	highlight	0	published	1	dist	3.02014482																										
+72493	Gka Inc	84-12 37th Ave	Jackson Heights	NY	11372	(718) 507-7775	lat	40.7499753	lng	-73.8821119	highlight	0	published	1	dist	3.037926206																										
+10806	VITALSCRIPT	83 17 19 37TH AVE	JACKSON HEIGHTS	NY	11372		lat	40.7498783	lng	-73.8831996	highlight	0	published	1	dist	3.069653772																										
+11287	FARMACIA LATINA	9315 ROOSEVELT AVE	JACKSON HEIGHTS	NY	11372		lat	40.749039	lng	-73.873048	highlight	0	published	1	dist	3.07067140426}]	[40.7766392	-73.87425	"null]][[{""id"""	6782	name	ALLIED PHARMACEUTICAL SVCS INC	address	1201 SEVEN LOCKS RD	city	ROCKVILLE	state	MD	zip	20851	phone		lat	39.0643894	lng	-77.1602736	highlight	0	published	1	dist	6.492342235
+6694	AMBULATORY CARE PHARMACY	9715 MEDICAL CENTER DR	ROCKVILLE	MD	20850		lat	39.098394	lng	-77.195681	highlight	0	published	1	dist	7.026633777																										
+67487	Theracom Llc	9717 Key West Ave	Rockville	MD	20850-3982	(301) 337-4200	lat	39.1044361	lng	-77.2036027	highlight	0	published	1	dist	7.414113459																										
+6811	AMBULATORY CARE PHARMACY	15001 SHADY GROVE RD	ROCKVILLE	MD	20850		lat	39.1015826	lng	-77.1912651	highlight	0	published	1	dist	7.508931596																										
+6874	SHADY GROVE PHARMACY	15225 SHADY GROVE RD	ROCKVILLE	MD	20850		lat	39.1068451	lng	-77.1889371	highlight	0	published	1	dist	8.123602694																										
+67544	Foers Long-Term Care Pharmacy Llc	1300 Piccard Dr Ste Ll-16	Rockville	MD	20850-4303	(301) 216-1190	lat	39.0839973	lng	-77.1527578	highlight	0	published	1	dist	8.153687057																										
+6827	FOERS PHARMACY	6420 ROCKLEDGE DR	BETHESDA	MD	20817		lat	39.0230722	lng	-77.1324132	highlight	0	published	1	dist	8.572717766																										
+6948	ROCKVILLE PHARMACY	50 W EDMONSTON DR STE 104	ROCKVILLE	MD	20852		lat	39.0743731	lng	-77.135918	highlight	0	published	1	dist	8.865842537																										
+19883	TENLEY PROFESSIONAL PHARMACY	50 W EDMONDSTON DR	ROCKVILLE	MD	20852		lat	39.0743731	lng	-77.135918	highlight	0	published	1	dist	8.865842537																										
+67540	Rollins Care Pharmacy Llc	184 Rollins Ave	Rockville	MD	20852-4005	(301) 816-2801	lat	39.0587421	lng	-77.122944	highlight	0	published	1	dist	9.376043038																										
+67514	Vashan Compounding Pharmacy	9005 Shady Grove Court	Gaithersburg	MD	20877	(301) 947-4747	lat	39.1190553	lng	-77.1842132	highlight	0	published	1	dist	9.527854763																										
+6758	WHITE FLINT PHARMACY	11125 ROCKVILLE PIKE	ROCKVILLE	MD	20852		lat	39.03894	lng	-77.108732	highlight	0	published	1	dist	10.39067364																										
+6680	GLEN ECHO PHARMACY	7311 MACARTHUR BLVD	BETHESDA	MD	20816		lat	38.9692628	lng	-77.1402712	highlight	0	published	1	dist	11.04477721																										
+6666	VILLAGE GREEN APOTHECARY	5415 CEDAR LN	BETHESDA	MD	20814		lat	39.0052545	lng	-77.1066582	highlight	0	published	1	dist	11.28304516																										
+67515	Millennium Pharmacy Systems Inc	202 Perry Pkwy Ste 8	Gaithersburg	MD	20877	(724) 940-2490	lat	39.143411	lng	-77.2109391	highlight	0	published	1	dist	11.52197159																										
+6652	DIAMOND CARE PHARMACY	226 E DIAMOND AVE	GAITHERSBURG	MD	20877		lat	39.1421978	lng	-77.1933541	highlight	0	published	1	dist	11.69330619																										
+71276	Medex Pharmacy Llc	6845 Elm St	Mclean	VA	22101-6007	(703) 388-0828	lat	38.9361881	lng	-77.1801743	highlight	0	published	1	dist	12.36903563																										
+16694	RESTON LAKESIDE PHARMACY	1641 WASHINGTON PLAZA	RESTON	VA	20190		lat	38.968477	lng	-77.340437	highlight	0	published	1	dist	12.54053847																										
+71511	Mclean Pharmacy Inc	1392 Chain Bridge Rd	Mclean	VA	22101	(571) 488-6030	lat	38.9356555	lng	-77.1759656	highlight	0	published	1	dist	12.55298149																										
+71288	Molina Healthcare Of Virginia Inc	11484 Washington Plaza West	Reston	VA	20190	(703) 787-3217	lat	38.9681643	lng	-77.3424534	highlight	0	published	1	dist	12.6968824073}]	[39.040746	-77.2290193	"null]][[{""id"""	20648	name	SALTZMAN PHARMACY INC	address	96 3RD AVE	city	BROOKLYN	state	NY	zip	11217	phone		lat	40.683613	lng	-73.982196	highlight	0	published	1	dist	0.191952318
+11213	EMCON PHARMACY INC	49 5TH AVE	BROOKLYN	NY	11217		lat	40.681191	lng	-73.976877	highlight	0	published	1	dist	0.336175957																										
+10153	CREST PHARMACY LTD	196 FLATBUSH AVE	BROOKLYN	NY	11217		lat	40.681538	lng	-73.976027	highlight	0	published	1	dist	0.377607484																										
+11015	INTERBORO PHARMACY INC	75 NEVINS AVE	BROOKLYN	NY	11217		lat	40.6863015	lng	-73.9824935	highlight	0	published	1	dist	0.419709006																										
+21102	NEVINS DRUGS INC	326 LIVINGSTON ST	BROOKLYN	NY	11217		lat	40.687859	lng	-73.981818	highlight	0	published	1	dist	0.559421241																										
+21161	GREENE COMMUNITY PHARMACY INC	702 FULTON ST	BROOKLYN	NY	11217		lat	40.685853	lng	-73.973877	highlight	0	published	1	dist	0.610212408																										
+21188	SIRI PHARMACY INC	23 FLAT BUSH AVE	BROOKLYN	NY	11217		lat	40.6887538	lng	-73.9807374	highlight	0	published	1	dist	0.641540012																										
+10359	BROOKLN CENTER PHARMACY	104 DEKALB AVENUE	BROOKLYN	NY	11201		lat	40.6898069	lng	-73.978453	highlight	0	published	1	dist	0.768237386																										
+69483	Ashland Pharmacy Inc	123 Dekalb Ave	Brooklyn	NY	11217-1237	(718) 834-9884	lat	40.6896935	lng	-73.9773778	highlight	0	published	1	dist	0.777261278																										
+10894	GOWANUS PHARMACY LLC	236 HOYT ST	BROOKLYN	NY	11217		lat	40.6830251	lng	-73.9902171	highlight	0	published	1	dist	0.856091776																										
+11257	S V R H PHARMACY INC	161 SMITH ST	BROOKLYN	NY	11201		lat	40.686184	lng	-73.990563	highlight	0	published	1	dist	0.95312472																										
+11363	KINGS PHARMACY	357 FLATBUSH AVE	BROOKLYN	NY	11238		lat	40.676898	lng	-73.97187	highlight	1	published	1	dist	0.968975847																										
+11247	PROSPECT GARDENS PHARMACY INC	89 7TH AVE	BROOKLYN	NY	11217		lat	40.674486	lng	-73.975085	highlight	0	published	1	dist	1.036360797																										
+69330	Greene Van Pharmacy Corp	94 Greene Ave	Brooklyn	NY	11238	(718) 783-0890	lat	40.6862702	lng	-73.9683803	highlight	0	published	1	dist	1.049911561																										
+11417	NEERGAARD PHARMACY	120 7TH AVE	BROOKLYN	NY	11215		lat	40.673687	lng	-73.976317	highlight	0	published	1	dist	1.083438548																										
+21131	BEHRENS PHARMACY	231 DEKALB AVE	BROOKLYN	NY	11205		lat	40.689669	lng	-73.969979	highlight	0	published	1	dist	1.127800423																										
+21003	WYCKOFFS CORNER PHARMACY	205 COURT ST	BROOKLYN	NY	11201		lat	40.686924	lng	-73.993377	highlight	0	published	1	dist	1.204049063																										
+10383	PALMA CHEMIST	159 7TH AVE	BROOKLYN	NY	11215		lat	40.672299	lng	-73.976735	highlight	1	published	1	dist	1.223321207																										
+20845	METRO DRUGS INC	4 METROTECH CENTER	BROOKLYN	NY	11245		lat	40.693651	lng	-73.984777	highlight	0	published	1	dist	1.248484732																										
+21109	KIDS RX	189 7TH AVE	BROOKLYN	NY	11215		lat	40.67093	lng	-73.977895	highlight	0	published	1	dist	1.35529539132}]	[40.6830069	-73.9800645	"null]][[{""id"""	10395	name	BROWNSVILLE COMMUNITY PHARMACY INC	address	592 ROCKAWAY AVE	city	BROOKLYN	state	NY	zip	11212	phone		lat	40.665328	lng	-73.9099559	highlight	0	published	1	dist	0.485760979
+72561	Teresa Pharmacy Inc	582 Rockaway Ave	Brooklyn	NY	11212-5625	(718) 342-3446	lat	40.6658063	lng	-73.9098714	highlight	0	published	1	dist	0.511928822																										
+20603	SAM KORF PHARMACY	710 ROCKAWAY AVE	BROOKLYN	NY	11212		lat	40.662385	lng	-73.909125	highlight	0	published	1	dist	0.55660945																										
+10992	ZOYA PHARMACY INC	1527PITKIN AVE	BROOKLYN	NY	11212		lat	40.668973	lng	-73.917108	highlight	0	published	1	dist	0.580102122																										
+21234	BINA DRUGS	1630 PITKIN AVE	BROOKLYN	NY	11212		lat	40.669096	lng	-73.91303	highlight	0	published	1	dist	0.609660108																										
+10746	PITKIN CARE PHARMACY	1621 PITKIN AVE	BROOKLYN	NY	11212		lat	40.669499	lng	-73.91342	highlight	0	published	1	dist	0.642796738																										
+20643	HINA DRUGS	4 SUTTER AVE	BROOKLYN	NY	11212		lat	40.6652234	lng	-73.9230159	highlight	0	published	1	dist	0.657992709																										
+21299	FAMILY PHARMACY	436 ROCKAWAY AVE	BROOKLYN	NY	11212		lat	40.66919	lng	-73.910916	highlight	0	published	1	dist	0.697933889																										
+10601	PHARMACY EXPRESS	1081 RUTLAND RD	BROOKLYN	NY	11212		lat	40.6641901	lng	-73.9240658	highlight	0	published	1	dist	0.730971009																										
+11304	SIMS PHARMACY INC	1711 PITKIN AVE	BROOKLYN	NY	11212		lat	40.670035	lng	-73.910068	highlight	0	published	1	dist	0.815717691																										
+21280	LA RUCHE PHARMACY INC	494 ROCKAWAY PKY	BROOKLYN	NY	11212		lat	40.6564116	lng	-73.9149003	highlight	0	published	1	dist	0.835777851																										
+21120	STAYWELL PHARMACY INC	172 WATKINS ST	BROOKLYN	NY	11212		lat	40.6687884	lng	-73.9076389	highlight	0	published	1	dist	0.85002238																										
+20787	SQUARE DEAL PHARMACY	437 MOTHER GASTON BLVD	BROOKLYN	NY	11212		lat	40.668425	lng	-73.906186	highlight	0	published	1	dist	0.925201921																										
+10844	BELMONT PHARMACY	102 A BELMONT AVE	BROOKLYN	NY	11212		lat	40.668791	lng	-73.906313	highlight	0	published	1	dist	0.939092924																										
+21283	CENTRAL PHARMACY	397 MOTHER GASTON BLVD	BROOKLYN	NY	11212		lat	40.669421	lng	-73.906452	highlight	0	published	1	dist	0.972041998																										
+11206	RUTLAND PHARMACY	964 RUTLAND RD	BROOKLYN	NY	11212		lat	40.661789	lng	-73.927237	highlight	0	published	1	dist	1.025541802																										
+20987	BROOKDALE RX INC	1275 LINDEN BLVD	BROOKLYN	NY	11212		lat	40.654801	lng	-73.912302	highlight	0	published	1	dist	1.047059895																										
+21250	GULSHAN PHARMACY INC	509 RALPH AVE	BROOKLYN	NY	11233		lat	40.671999	lng	-73.922001	highlight	0	published	1	dist	1.056744551																										
+11308	KALA PHARMACY INC	9311 CHURCH AVE	BROOKLYN	NY	11206		lat	40.6545195	lng	-73.9173033	highlight	0	published	1	dist	1.057248407																										
+10598	424 NEIGHBORHOOD PHARMACY INC	424 SUTTER AVE	BROOKLYN	NY	11212		lat	40.667932	lng	-73.903201	highlight	0	published	1	dist	1.12207845389}]	[40.6639181	-73.9154069	null]]<br />																							
+  usort() expects parameter 1 to be array																																										
+																																										
+  array_slice() expects parameter 1 to be array																																										
+[12.159599	null]]<br />																																									
+  usort() expects parameter 1 to be array																																										
+																																										
+  array_slice() expects parameter 1 to be array																																										
+[43.2123921	"null]][[{""id"""	name	address	city	state	zip	11561	phone		lat	40.5888045	lng	-73.6455729	highlight	0	published	1	dist	0.568848947																							
+69745	Long Beach Mem Nrsng Home Phcy	375 E Bay Dr	Long Beach	NY	11561-2319	(516) 897-1000	lat	40.594673	lng	-73.654034	highlight	0	published	1	dist	1.39983288																										
+11176	BI WISE DRUGS	26 W PARK AVE	LONG BEACH	NY	11561		lat	40.5883514	lng	-73.6649977	highlight	0	published	1	dist	2.207272763																										
+20654	CONRADS PHARMACY	333 LONG BEACH RD	ISLAND PARK	NY	11558		lat	40.6058624	lng	-73.6554295	highlight	1	published	1	dist	2.290424168																										
+10714	LONG BEACH CHEMISTS	170 W PARK AVE	LONG BEACH	NY	11561		lat	40.5883167	lng	-73.668898	highlight	0	published	1	dist	2.536317583																										
+21198	NU LOOK GALAXY PHARMACY INC	62 LIDO BLVD	POINT LOOKOUT	NY	11569		lat	40.5920988	lng	-73.5813531	highlight	0	published	1	dist	4.867913106																										
+10533	KINGS PHARMACY	1054 WEST BEECH STREET	LONG BEACH	NY	11561		lat	40.5859964	lng	-73.6981686	highlight	0	published	1	dist	5.019848668																										
+10101	OCEAN CHEMISTS	3124 LONG BEACH RD	OCEANSIDE	NY	11572		lat	40.6359131	lng	-73.6403985	highlight	1	published	1	dist	5.159419658																										
+10422	LEVENS PHARMACY	364 LONG BEACH RD	OCEANSIDE	NY	11572		lat	40.648338	lng	-73.6377409	highlight	0	published	1	dist	6.540199148																										
+20653	FIVETOWN PHARMACY	1019 BROADWAY	WOODMERE	NY	11598		lat	40.6312643	lng	-73.7075276	highlight	0	published	1	dist	7.422605744																										
+20856	CALIBER PHARMACY	1311 BROADWAY	HEWLETT	NY	11557		lat	40.6390284	lng	-73.7008116	highlight	0	published	1	dist	7.589717356																										
+10126	DAVIS ETHICAL PHARMACY	124 N LONG BEACH RD	ROCKVILLE CENTRE	NY	11570		lat	40.6582924	lng	-73.6310959	highlight	0	published	1	dist	7.674683574																										
+10614	HEALTH MART PHARMACY	179 ATLANTIC AVE	FREEPORT	NY	11520		lat	40.6457887	lng	-73.583632	highlight	0	published	1	dist	7.803947243																										
+21281	EZRA PHARMACY	604 CENTRAL AVE	CEDARHURST	NY	11516		lat	40.6235072	lng	-73.7212189	highlight	0	published	1	dist	7.909754629																										
+11301	PICKER PHARMACY	18 ATLANTIC AVE	LYNBROOK	NY	11563		lat	40.6565396	lng	-73.6716192	highlight	0	published	1	dist	7.946552384																										
+11042	EXPRESS RX	493 SUNRISE HGWY	LYNBROOK	NY	11563		lat	40.6556441	lng	-73.6767558	highlight	0	published	1	dist	8.015966598																										
+72373	R&h Pharma Inc	123 Maple Avenue	Cedarhurst	NY	11516	(516) 374-5631	lat	40.623883	lng	-73.722546	highlight	0	published	1	dist	8.028139578																										
+72532	Custom Chemists Pharmacy Inc	127 Spruce St Store A	Cedarhurst	NY	11516	(516) 341-0500	lat	40.6228819	lng	-73.7242983	highlight	0	published	1	dist	8.107069866																										
+69496	Jaglo Pharmacy Inc	30 Hempstead Ave	Rockville Centre	NY	11570-4076	(516) 764-6161	lat	40.6622028	lng	-73.6468576	highlight	0	published	1	dist	8.108988835																										
+10644	GRAND CENTRAL PHARMACY	420 CENTRAL AVE	CEDARHURST	NY	11516		lat	40.6199076	lng	-73.7262283	highlight	0	published	1	dist	8.10917824146}]	[40.5895272	-73.6389038	null]]																							
