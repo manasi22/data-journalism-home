@@ -1,0 +1,143 @@
+<style type="text/css">
+
+body {
+  width:760px;
+  margin:40px auto;
+  font-family: georgia, sans;
+}
+
+h1 {
+  border-bottom:1px solid #dedede;
+  margin-bottom:20px;
+  padding-bottom:20px;
+}
+
+.drug-box
+{
+background-color: red;
+font-size: 20px;
+height:80px;
+width: 120px;
+padding-bottom: 30px;
+padding-top: 30px;
+margin-top: 100px;
+margin-right:20px;
+float:left;
+
+}
+.selected
+{
+background:green;
+color:white;
+
+}
+
+</style>
+
+<h1>Starter interactive</h1>
+
+
+<h3 id="total"> This is the dosage </h3>
+
+
+<div class="drug-box" id="Excedrin" data-dosage="2000">
+Excedrin
+
+</div>
+
+<div class="drug-box" id="Nyquil" data-dosage="2600">
+Nyquil
+</div>
+
+</div><div class="drug-box" id="Robitussin" data-dosage="3840">
+Robitussin
+</div>
+
+</div><div class="drug-box" id="Sudafed" data-dosage="3250">
+Sudafed
+</div>
+
+</div><div class="drug-box" id="Alka-Seltzer" data-doasge="2000">
+Alka-Seltzer
+</div>
+
+</div><div class="drug-box" id="Theraflu" data-dosage="3900">
+Theraflu
+</div>
+
+</div><div class="drug-box" id="Extra Strength Telenol" data-dosage="3000">
+Extra Strength Telenol
+</div>
+
+</div><div class="drug-box" id="Zicam" data-dosage="3900">
+Zicam
+</div>
+
+</div><div class="drug-box" id="Anacin" data-dosage="4000">
+Anacin
+</div>
+
+</div><div class="drug-box" id="Children's Tylenol" data-dosage="800">
+Children's Tylenol
+</div>
+</div><div class="drug-box" id="Ultracet" data-dosage="2600">
+Ultracet
+</div>
+
+</div><div class="drug-box" id="Oxycodone and Acetominophen data-dosage="2600">
+Oxycodone and Acetominophen
+</div>
+
+</div><div class="drug-box" id="Percocet" data-dosage="3900">
+Percocet
+</div>
+
+</div><div class="drug-box" id="Vicodin" data-dosage="3960">
+Vicodin
+</div>
+
+</div><div class="drug-box" id="tylenol and codeine" data-dosage="4000">
+tylenol and codeine
+</div>
+
+</div><div class="drug-box" id="coricidin" data-dosage="3900">
+coricidin
+</div>
+
+</div><div class="drug-box" id="Dayquil" data-dosage="1300">
+Dayquil
+</div>
+
+</div><div class="drug-box" id="panadol" data-dosage="800">
+Panadol
+</div>
+
+</div><div class="drug-box" id="Dimetapp" data-dosage="800">
+Dimetapp
+</div>
+
+
+<script type="text/javascript" src="jQuery.js.txt"></script>
+
+<script>
+var totaldosage= 0;
+
+
+$(".drug-box").click(function(){
+ var dosage=($(this).attr("data-dosage"));
+ $(this).toggleClass("selected");
+ 
+ if($(this).hasClass("selected")){ 
+ totaldosage= totaldosage+Number(dosage); }
+ else {
+ totaldosage= totaldosage-Number(dosage);}
+ 
+ console.log($(this).hasClass("selected"))
+ 
+ $("#total").html(totaldosage)
+ $("#drug-box").toggleClass("#selected");
+ });
+ 
+</script>
+
+
