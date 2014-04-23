@@ -1,0 +1,18 @@
+<html>
+<h1><b>How India’s youngest political party is funding its journey</b></h1>
+<p>In the summer of 2011, a few months after the world was captivated by the images of the Arab Spring; a silent revolution against corruption was started on the streets of the Indian capital, one that spoke to general public right down to the lowest common denominator. The momentum gained by this anti-corruption movement was translated into the birth of the Aam Aadmi Party(AAP), which literally translates as the Common Man party. It broke into the Indian political scene, in late 2012, and was the quintessential underdog in ensuing state elections a year later. In one of the most surprising upsets in recent history, they managed to win get the second largest number of seats in the state constituency and went on to form a government with the external support of the very party they upstaged. </p>
+<p>One of the most remarkable features of this organization, however, is that it sought donations on a public platform and went on to publish them on their website, something that was hitherto unheard of in the corruption-laden Indian political system. The donations which range from Rs.1 to Rs.5,00,000 (approximately $8000) have poured in from 94 countries since 2012 and present a fascinating data set while directly representing the party’s rise and intermittent falls in popularity. </p>
+<p>I was hoping to, maybe derive some information from the data and link it to the party's activities: winning the elections, forming a government, passing legislative bills, and finally resigning, all of which they did in a span of less than two months.  There have been conflicting news reports about the party’s popularity after the chief minister; the head of state, resigned. The donation flow could be one of the indicators to quantify their popularity. Another interesting question I want to answer is where if the donations of highest values are from India itself or from international donors and if there is a pattern to those in both cases where there are hotspots with a higher  number of people believe in the party and donate to the cause.</p>
+
+
+
+
+<img src="graph_rough.png">
+
+
+
+
+
+
+
+<p>The list of donations can be accessed from their official website. I would need to learn how to scrape the data using Ruby from the website and make interactive graphics; in order to incorporate the news component into the data. </p>

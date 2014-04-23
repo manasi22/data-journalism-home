@@ -1,0 +1,64 @@
+/** Stately setup
+*************************************/
+@font-face {
+  font-family: 'stately-webfont';
+  src: url("../font/stately-webfont.eot");
+  src: url("../font/stately-webfont.eot?#iefix") format("embedded-opentype"), url("../font/stately-webfont.woff") format("woff"), url("../font/stately-webfont.ttf") format("truetype"), url("../font/stately-webfont.svg#testfontRegular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+.stately {
+  font: normal normal 600px "stately-webfont";
+  line-height: 100%;
+  font-size-adjust: none;
+  -webkit-text-rendering: optimizeLegibility;
+  -moz-text-rendering: optimizeLegibility;
+  -ms-text-rendering: optimizeLegibility;
+  -o-text-rendering: optimizeLegibility;
+  text-rendering: optimizeLegibility;
+  -moz-font-feature-settings: "liga=1";
+  -ms-font-feature-settings: "liga" 1;
+  -ms-font-feature-settings: "liga", "dlig";
+  overflow: hidden;
+  width: 600px;
+  height: 400%
+  display: block;
+  margin: 0 px;
+  padding: 0;
+  list-style: none;
+ }
+  .stately li {
+    float: left;
+    margin: -20% 0 0 -100%;
+    position: relative;
+    left: 101%;
+    width: 100%;
+    cursor: default;
+    -webkit-transition: all 1s ease-in;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; }
+
+/** Style customizations
+*************************************/
+    {
+    color:#ffffff; }
+	 .ny,.vt,.ri,.hi,.de,.nh,.me,.nj,.wy,.nd,.ak,.sd,.id,.or,.ct,.md,.ut,.mt,.nm,.dc {
+	color: #f1eef6;}
+	.nv,.ne,.ma,.sc,.wa,.ks,.pa,.co,.wv,.ok,.va,.nc,.mo,.az,.ia,.mn{
+	color: #d7b5d8;}
+	.ca,.la,.fl,.mi,.ga,.tx,.ar {
+	color: #df65b0;}
+	.al,.tn,.oh,.ky,.wi,.ms,.in {
+	color:#dd1c77;}
+	.il {
+	color:#980043;}
+	
+	
+ 
+
+
+  
