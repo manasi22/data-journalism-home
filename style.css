@@ -1,25 +1,30 @@
+
 h1
-{width: 120%;
-margin: 0px;
-font-family: georgia;
+{width: 1000px;
+margin: 5px auto;
+font-family: helvetica;
 font-size: 30px;
 line-height: 2.0em;
+color:0099CC
 }
+
+h2
+{width: 1000px;
+	margin: 5px auto;
+	font-family: arial;
+	font-size: 20px;
+	line-height: 1.4em;
+	}
 
 
 
 body
 {
-	width: 900px;
-	margin: 30px auto;
-	font-family: georgia;
-	font-size: 16px;
+	width: 1000px;
+	margin: 5px auto;
+	font-family: arial;
+	font-size: 15px;
 	line-height: 1.4em;
+
 }
 
-img {
-margin-top: 10px;
-width:40%;
-float:right;
-margin: 10px;
-}
